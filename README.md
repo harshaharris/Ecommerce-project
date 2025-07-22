@@ -48,5 +48,6 @@ Add/remove items, update quantity
 Admin Panel 
 
 Interface for product management
+
 output:
 uploaded in files

@@ -1,5 +1,5 @@
 # Ecommerce-project
-Backend Features:
+--Backend Features we used to implement project--
 User Authentication
 
 Register/Login with hashed passwords using bcryptjs
@@ -23,7 +23,8 @@ Custom middleware for error handling and user role validation
 MongoDB Database
 
 Stores user data, products, and orders securely
-Frontend Features
+
+--Frontend Features we used to implement project--
 Responsive UI
 
 Clean and user-friendly interface using CSS or Tailwind
@@ -44,7 +45,8 @@ Shopping Cart
 
 Add/remove items, update quantity
 
-Admin Panel (Optional)
+Admin Panel 
 
 Interface for product management
 output:
+uploaded in files
